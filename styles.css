@@ -1,0 +1,21 @@
+body {
+  background: #ffdc73;
+}
+.to-do-list {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 35em;
+  text-align: center;
+  background: #996ad6;
+}
+.wrapper {
+  text-align: left;
+  background-color: #3f92d2;
+}
+ul > li {
+  list-style-type: none;
+}
+.important {
+  background-color: #ffcd00;
+}
